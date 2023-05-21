@@ -10,3 +10,9 @@ I'm **Nureddin Farzaliyev**. I'm a **Frontend Developer**.
 
 ### My Social Media Accounts:
 <a href="https://www.instagram.com/nureddinfarzaliyev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="50" width="50"/></a> <a href="https://www.linkedin.com/in/nureddin-farzaliyev-4a05b6254/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50"/></a> <a href="https://github.com/nureddinfarzaliyev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" width="50"/></a>
+
+
+### Some of My Projects:
+
+**Planet Facts**
+[![Planet Facts](https://github.com/NureddinFarzaliyev/planet-facts/blob/master/public/overview-gif.gif)](https://github.com/NureddinFarzaliyev/planet-facts)
