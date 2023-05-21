@@ -14,5 +14,7 @@ I'm **Nureddin Farzaliyev**. I'm a **Frontend Developer**.
 
 ### Some of My Projects:
 
-**Planet Facts**
-[![Planet Facts](https://github.com/NureddinFarzaliyev/planet-facts/blob/master/public/overview-gif.gif)](https://github.com/NureddinFarzaliyev/planet-facts)
+<a href="https://github.com/NureddinFarzaliyev/planet-facts"> 
+  <b>Planet Facts</b>
+  <img src="https://github.com/NureddinFarzaliyev/planet-facts/blob/master/public/overview-gif.gif" alt="planet facts" height="100" />
+</a>
