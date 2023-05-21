@@ -14,12 +14,5 @@ I'm **Nureddin Farzaliyev**. I'm a **Frontend Developer**.
 
 ### Some of My Projects:
 
-<div>
-  <div style="display: inline">
-    <a href="https://github.com/NureddinFarzaliyev/planet-facts"><b>Planet Facts</b></a> <br/>
-    <img src="https://github.com/NureddinFarzaliyev/planet-facts/blob/master/public/overview-gif.gif" alt="Planet Facts" width="300">
-  </div><div style="display: inline">
-    <a href="https://github.com/NureddinFarzaliyev/spotify-clone"><b>Spotify Clone</b></a> <br/>
-    <img src="https://github.com/NureddinFarzaliyev/spotify-clone/blob/master/public/home.png" alt="Planet Facts" width="300">
-  </div>
-</div>
+- <a href="https://github.com/NureddinFarzaliyev/planet-facts"><b>Planet Facts</b></a> <br/>
+- <a href="https://github.com/NureddinFarzaliyev/spotify-clone"><b>Spotify Clone</b></a> <br/>
