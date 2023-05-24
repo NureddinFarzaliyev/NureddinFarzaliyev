@@ -22,7 +22,7 @@ Welcome to my profile! 👋
 </p>
   
 <p align=center>
-  <img src = "https://github-readme-stats.vercel.app/api?username=nureddinfarzaliyev&show_icons=true&theme=bear&count_private=true&hide_rank=true&include_all_commits=true" height = 200>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nureddinfarzaliyev&theme=bear&count_private=true" height = 200>
+  <img src = "https://github-readme-stats.vercel.app/api?username=nureddinfarzaliyev&show_icons=true&theme=bear&count_private=true&hide_rank=true&include_all_commits=true" height = 200>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nureddinfarzaliyev&theme=bear" height = 250>
 </p>
