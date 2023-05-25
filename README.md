@@ -1,9 +1,8 @@
-<h3 align=center>
-Welcome to my profile! 👋
-  <p>I'm Nureddin Farzaliyev. I'm a Frontend Developer.</p>
-</h3>
 
-****
+<h2 align=center>Welcome to my profile! 👋 <br>
+I'm Nureddin Farzaliyev.
+I'm a Frontend Developer.</h2> <br>
+
 
 [![](https://visitcount.itsvg.in/api?id=nureddinfarzaliyev&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
