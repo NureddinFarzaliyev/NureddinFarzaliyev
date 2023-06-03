@@ -19,6 +19,8 @@ I'm a Frontend Developer.</h2> <br>
 <p align=center>
   <a href="https://github.com/nureddinfarzaliyev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+****
   
 <p align=center>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nureddinfarzaliyev&theme=bear&count_private=true" height = 225>
