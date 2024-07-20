@@ -5,6 +5,8 @@ I'm a Frontend Developer.</h2> <br>
 
 
 [![](https://visitcount.itsvg.in/api?id=nureddinfarzaliyev&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://www.codewars.com/users/NureddinFarzaliyev/badges/small)
+
 
 ### My Skills: <br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" width="50"/>
