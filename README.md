@@ -9,7 +9,10 @@ I'm a Frontend Developer.</h2> <br>
 
 
 ### My Skills: <br>
+<!--
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="50" width="50"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" width="50" /> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="50" width="50" />
+-->
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,tailwindcss,figma,git,javascript,typescript,vite,react,nodejs,mongodb,expressjs)](https://skillicons.dev)
 
 
 
