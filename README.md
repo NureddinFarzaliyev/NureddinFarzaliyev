@@ -5,8 +5,8 @@ I'm a Frontend Developer.</h2> <br>
 
 
 [![](https://visitcount.itsvg.in/api?id=nureddinfarzaliyev&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-![](https://www.codewars.com/users/NureddinFarzaliyev/badges/micro)
-
+![](https://www.codewars.com/users/NureddinFarzaliyev/badges/micro) <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jdsq5klup3g4vy87uct3xfa6i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jdsq5klup3g4vy87uct3xfa6i&redirect=true)
 
 ### My Skills: <br>
 <!--
