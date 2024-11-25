@@ -18,7 +18,7 @@ I'm a Frontend Developer.</h2> <br>
 
 
 ### My Social Media Accounts:
-<a href="https://www.instagram.com/nureddinfarzaliyev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="50" width="50"/></a> <a href="https://www.linkedin.com/in/nureddin-farzaliyev-4a05b6254/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50"/></a> <a href="https://github.com/nureddinfarzaliyev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" width="50"/></a>
+<a href="https://www.instagram.com/nureddinfarzaliyev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="50" width="50"/></a> <a href="https://www.linkedin.com/in/nureddin-farzaliyev-4a05b6254/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50"/></a> <a href="https://github.com/nureddinfarzaliyev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" width="50"/></a> <a href="https://dev.to/nureddinfarzaliyev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" height="50" width="50"/></a>
 
 ****
 
