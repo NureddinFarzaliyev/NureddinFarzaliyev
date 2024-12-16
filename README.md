@@ -28,8 +28,8 @@ I'm a Frontend Developer.</h2> <br>
 
 ****
   
-<p align=center>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nureddinfarzaliyev&theme=bear&count_private=true" height = 225>
-  <img src = "https://github-readme-stats.vercel.app/api?username=nureddinfarzaliyev&show_icons=true&theme=bear&count_private=true&hide_rank=true&include_all_commits=true" height = 225>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nureddinfarzaliyev&theme=bear" height = 225>
-</p>
+<div align=center>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=nureddinfarzaliyev&theme=react&hide_border=true" height = 225>
+  <img src = "https://github-readme-stats.vercel.app/api?username=nureddinfarzaliyev&theme=react&show_icons=true&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true" height = 225>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nureddinfarzaliyev&theme=react&show_icons=true&hide_border=true&layout=compact" height = 225>
+</div>
