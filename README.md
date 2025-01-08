@@ -3,17 +3,11 @@
 I'm Nureddin Farzaliyev.
 I'm a Frontend Developer.</h2> <br>
 
-<!--
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jdsq5klup3g4vy87uct3xfa6i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jdsq5klup3g4vy87uct3xfa6i&redirect=true) <br>
--->
 [![](https://visitcount.itsvg.in/api?id=nureddinfarzaliyev&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ![](https://www.codewars.com/users/NureddinFarzaliyev/badges/micro)
 ![](https://user-badge.committers.top/azerbaijan/NureddinFarzaliyev.svg)
 
 ### My Skills: <br>
-<!--
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="50" width="50"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" width="50" /> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="50" width="50" />
--->
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,linux,html,css,bootstrap,tailwindcss,figma,git,javascript,typescript,vite,react,nodejs,mongodb,expressjs)](https://skillicons.dev)
 -->
@@ -21,6 +15,12 @@ I'm a Frontend Developer.</h2> <br>
 
 ### My Social Media Accounts:
 <a href="https://www.instagram.com/nureddinfarzaliyev/"><img src="https://github.com/ixrzr/skills-icons/blob/main/icons/instagram.svg" height="50" width="50"/></a> <a href="https://www.linkedin.com/in/nureddin-farzaliyev-4a05b6254/"><img src="https://github.com/ixrzr/skills-icons/blob/main/icons/linkedin.svg" height="50" width="50"/></a> <a href="https://github.com/nureddinfarzaliyev"><img src="https://github.com/ixrzr/skills-icons/blob/main/icons/github.svg" height="50" width="50"/></a> <a href="https://dev.to/nureddinfarzaliyev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" height="50" width="50"/></a>
+
+****
+
+<p align=center>
+  <a href="https://farzaliyev.netlify.app"><img alt="My Portfolio" title="All Repositories" src="https://github.com/NureddinFarzaliyev/NureddinFarzaliyev/blob/main/portfolio-link.png"/></a>
+</p>
 
 ****
 
