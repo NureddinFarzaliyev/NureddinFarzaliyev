@@ -19,7 +19,7 @@ I'm a Frontend Developer.</h2> <br>
 ****
 
 <p align=center>
-  <a href="https://farzaliyev.netlify.app"><img alt="My Portfolio" title="All Repositories" src="https://github.com/NureddinFarzaliyev/NureddinFarzaliyev/blob/main/portfolio-link.png"/></a>
+  <a href="https://farzaliyev.netlify.app" target="_blank"><img alt="My Portfolio" title="All Repositories" src="https://github.com/NureddinFarzaliyev/NureddinFarzaliyev/blob/main/portfolio-link.png"/></a>
 </p>
 
 ****
