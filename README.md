@@ -11,7 +11,7 @@ I'm a Frontend Developer.</h2> <br>
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,linux,html,css,bootstrap,tailwindcss,figma,git,javascript,typescript,vite,react,nodejs,mongodb,expressjs)](https://skillicons.dev)
 -->
-![Skills](https://skills-icons.vercel.app/api/icons?i=python,linux,html,css,bootstrap,tailwindcss,figma,git,javascript,typescript,vite,jwt,react,nodejs,mongodb,expressjs)
+![Skills](https://skills-icons.vercel.app/api/icons?i=python,linux,html,css,bootstrap,tailwindcss,figma,git,javascript,typescript,vite,jwt,react,redux,nodejs,mongodb,expressjs)
 
 ### My Social Media Accounts:
 <a href="https://www.instagram.com/nureddinfarzaliyev/"><img src="https://github.com/ixrzr/skills-icons/blob/main/icons/instagram.svg" height="50" width="50"/></a> <a href="https://www.linkedin.com/in/nureddin-farzaliyev-4a05b6254/"><img src="https://github.com/ixrzr/skills-icons/blob/main/icons/linkedin.svg" height="50" width="50"/></a> <a href="https://github.com/nureddinfarzaliyev"><img src="https://github.com/ixrzr/skills-icons/blob/main/icons/github.svg" height="50" width="50"/></a> <a href="https://dev.to/nureddinfarzaliyev"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" height="50" width="50"/></a>
